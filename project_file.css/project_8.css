@@ -1,0 +1,381 @@
+div{
+background-color:white;
+margin: 1px;
+padding: 1px;
+}
+#div_box1{
+     height: 153px;
+     width: 98%;
+     background-color:white;
+     margin: 1%; 
+     border: none; 
+     box-sizing: border-box; 
+   
+}
+#edit_logo{
+    float: left;
+    height: 98%;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+#edit_h1{
+    float: left;
+    height: 63%;
+    width: 760px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: white;
+    font-size: 75px;
+    padding: 27px 0px;
+    /* background-color: white; */
+}
+#edit_menu{
+    height: 30%;
+    width: 392px;
+    background-color: white;
+    float: left;
+    margin:52px 0px;
+ 
+}
+#add_effects{
+list-style: none;
+}
+#add_effects li{
+    float: left;
+}
+#add_effects li a{
+    text-decoration: none;
+    color: black;
+    padding:10px 15px;
+    margin: 5px;
+    font-weight:400px;
+}
+
+#add_effects li a:hover{
+    background-color:gainsboro;
+    border: 1px solid gray;
+    font-size: large; 
+}
+#bag_logo{
+    height:46%;
+    width:155px;
+    float: right;
+    margin:40px 0px;
+    background-color: white;
+}
+/* box 2 design  */
+#div_box2{
+    height: 100px;
+    width: 98%;
+    background-color:#D4D4D4;
+    margin: 1%;
+}
+#edit_description{
+    font-size:20px;
+    height: 50%;
+    background-color:#D4D4D4;
+    margin: 13px 260px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;
+}
+/* box 3 desigining */
+#div_box3{
+    height: 364px;
+    width: 98%;
+    background-color:rgb(57, 114, 189);
+    margin: 1%;
+}
+
+#number_1{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    text-align: center;
+    background-color: white;
+   
+}
+#number_1:hover{
+font-size: large;
+}
+#number_2{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 37px;
+    text-align: center;
+    background-color: white;
+}
+#number_2:hover{
+    font-size: large;
+    }
+#number_3{
+    float: left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 37px;
+    background-color: white;
+    text-align: center;
+}
+#number_3:hover{
+    font-size: large;
+    }
+#number_4{
+    float: left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    background-color: white;
+    text-align: center;
+}
+#number_4:hover{
+    font-size: large;
+    }
+/* box 4 designing */
+#div_box4{
+    height: 100px;
+    width: 98%;
+    background-color:#D4D4D4 ;
+    margin: 1%;
+}
+#edit_h2{
+  font-size:40px;
+color:grey;
+margin: 23px 0px;
+text-align: center;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;;
+}
+
+/* box 5 designing */
+#div_box5{
+    height: 590px;
+    width: 98%;
+    background-color: white;
+    margin: 1%;
+}
+#add_description_1{
+    height: 99%;
+    width: 45%;
+    /* border: 1px solid black; */
+    background-color:white;
+    float: left;
+}
+#edit_crown_h2{
+    text-align: center;
+    background-color: seagreen;
+  padding: 25px 5px;
+    font-size: 35px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ;
+}
+#edit_crown_des{
+    text-align: justify;
+    font-size: 20px;
+    margin: 15px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;
+}
+#add_image_1{
+    height:585px;
+    width:797px;
+    /* border: 1px solid black; */
+    /* background-color: brown; */
+    float:right;
+}
+
+
+/* box 6 design */
+#div_box6{
+    height: 544px;
+    width: 98%;
+    background-color: white;
+    margin: 1%;
+}
+#add_image_2{
+    height:539px;
+    width:959px;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:left;
+}
+#edit_mazda_h2{
+    text-align: center;
+    background-color: seagreen;
+  padding: 25px 10px;
+    font-size: 35px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ;
+}
+#edit_mazda_des{
+    text-align: justify;
+    font-size: 20px;
+    margin: 15px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;
+}
+
+#add_description_2{
+    height: 91%;
+    width: 34%;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:right;
+}
+
+
+/* box 7 design */
+#div_box7{
+    height: 430px;
+    width: 98%;
+    background-color: white;
+    margin: 1%;
+}
+#add_description_3{
+    height: 99%;
+    width: 54%;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:right; 
+}
+#edit_honda_h2{
+    text-align: center;
+    background-color:seagreen;
+  padding: 15px 10px;
+    font-size: 35px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ;
+}
+#edit_honda_des{
+    text-align: justify;
+    font-size: 20px;
+    margin: 15px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;
+}
+
+#add_image_3{
+    height:426px;
+    width:666px;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:right;
+}
+
+/* box 8 design */
+#div_box8{
+    height:505px;
+    width: 98%;
+    background-color: white;
+    margin: 1%;
+}
+#add_image_4{
+    height:501px;
+    width:754px;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:left;
+}
+#edit_nissan_h2{
+    text-align: center;
+    background-color:seagreen;
+  padding: 20px 10px;
+ 
+    font-size: 35px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ;
+}
+#add_description_4{
+    height:426px;
+    width:707px;
+    /* border: 1px solid black; */
+    background-color:white;
+    float:right;
+}
+#edit_nissan_des{
+    text-align: justify;
+    font-size: 20px;
+    margin: 15px;
+    font-family:Uni Neue,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji ; ;
+}
+
+/* box 9 design */
+#div_box9{
+    height: 364px;
+    width: 98%;
+    background-color:white;
+    border: 2px solid lightslategrey;
+    margin: 1%;
+}
+#footer_box_1{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    text-align: center;
+    background-color: white;
+}
+   
+#design_01{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#design_01:hover{
+    background-color: #D4D4D4;
+}
+#footer_box_2{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    text-align: center;
+    background-color: white;
+}
+#design_02{
+    text-align: center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#design_02:hover{
+    background-color: #D4D4D4;
+}
+#footer_box_3{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    text-align: center;
+    background-color:white;
+}
+#design_03:hover{
+    background-color: #D4D4D4;
+}
+#footer_box_3{
+    text-align: center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#footer_box_4{
+    float:left;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 280px;
+    padding: 5px;
+    margin: 36px 38px;
+    text-align: center;
+    background-color:white;
+}
+#design_04:hover{
+    background-color: #D4D4D4;
+}
+#design_04{
+    text-align: center;
+    font-size:medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
